@@ -1,0 +1,9 @@
+{
+  "name": "Nexus AI Mega Suite",
+  "description": "En gelişmiş Gemini özelliklerini barındıran; metin, görüntü, video, ses ve canlı konuşma yeteneklerine sahip mega yapay zeka platformu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
